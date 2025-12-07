@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Chat",
+  "description": "A production-ready real-time chat application frontend demonstrating WebSocket interactions, authentication, and responsive design.",
+  "requestFramePermissions": []
+}
